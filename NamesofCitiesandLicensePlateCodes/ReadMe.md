@@ -11,27 +11,27 @@
  
 ## :camera_flash: ScreenShot
 * Table on the Site where we will extract the data :point_down:
-![](https://github.com/berkay-c/Python_WorkShops/blob/main/PythonWebScraping/NamesofCitiesandLicensePlateCodes/SS/SS1.png?raw=true)
+![](https://github.com/berkay-c/python-web-scraping/blob/master/NamesofCitiesandLicensePlateCodes/SS/SS1.png?raw=true)
 
 * http://localhost:5000/welcomepage :point_down:
-![Welcome Page](https://github.com/berkay-c/Python_WorkShops/blob/main/PythonWebScraping/NamesofCitiesandLicensePlateCodes/SS/SS2.png?raw=true)
+![Welcome Page](https://github.com/berkay-c/python-web-scraping/blob/master/NamesofCitiesandLicensePlateCodes/SS/SS2.png?raw=true)
 
 * Finding city name by entering plate code :point_down:
 
-  ![](https://github.com/berkay-c/Python_WorkShops/blob/main/PythonWebScraping/NamesofCitiesandLicensePlateCodes/SS/SS12.png?raw=true)
+  ![](https://github.com/berkay-c/python-web-scraping/blob/master/NamesofCitiesandLicensePlateCodes/SS/SS12.png?raw=true)
   
-  ![](https://github.com/berkay-c/Python_WorkShops/blob/main/PythonWebScraping/NamesofCitiesandLicensePlateCodes/SS/SS13.png?raw=true)
+  ![](https://github.com/berkay-c/python-web-scraping/blob/master/NamesofCitiesandLicensePlateCodes/SS/SS13.png?raw=true)
 
 * Finding the license plate code by entering the city name :point_down:
 
-  ![](https://github.com/berkay-c/Python_WorkShops/blob/main/PythonWebScraping/NamesofCitiesandLicensePlateCodes/SS/SS10.png?raw=true)
+  ![](https://github.com/berkay-c/python-web-scraping/blob/master/NamesofCitiesandLicensePlateCodes/SS/SS10.png?raw=true)
   
-  ![](https://github.com/berkay-c/Python_WorkShops/blob/main/PythonWebScraping/NamesofCitiesandLicensePlateCodes/SS/SS11.png?raw=true)
+  ![](https://github.com/berkay-c/python-web-scraping/blob/master/NamesofCitiesandLicensePlateCodes/SS/SS11.png?raw=true)
 
 * Screenshot from our database :point_down:
-![](https://github.com/berkay-c/Python_WorkShops/blob/main/PythonWebScraping/NamesofCitiesandLicensePlateCodes/SS/DatabaseSS.png?raw=true)
+![](https://github.com/berkay-c/python-web-scraping/blob/master/NamesofCitiesandLicensePlateCodes/SS/DatabaseSS.png?raw=true)
 
 * Screenshot from our file named 'out.csv'
-![](https://github.com/berkay-c/Python_WorkShops/blob/main/PythonWebScraping/NamesofCitiesandLicensePlateCodes/SS/out_csv.png?raw=true)
+![](https://github.com/berkay-c/python-web-scraping/blob/master/NamesofCitiesandLicensePlateCodes/SS/out_csv.png?raw=true)
 
 
