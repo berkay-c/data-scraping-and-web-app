@@ -2,8 +2,8 @@
 ## :round_pushpin:1-Titles of Announcements
 * It is aimed to obtain Kocaeli University Announcements using Python 'BeautifulSoup' Library and print them on the terminal screen.
 ### :camera_flash: ScreenShot
-![](https://github.com/berkay-c/python-web-scraping/TitlesofAnnouncements/SS/Screenshot%20from%202021-07-22%2020-11-59.png?raw=true)
-*  :point_right: **[Click for more information and source code](https://github.com/berkay-c/python-web-scraping/TitlesofAnnouncements)**  :point_left: 
+![](https://github.com/berkay-c/python-web-scraping/raw/master/TitlesofAnnouncements/SS/Screenshot%20from%202021-07-22%2020-11-59.png?raw=true)
+*  :point_right: **[Click for more information and source code](https://github.com/berkay-c/python-web-scraping/tree/master/TitlesofAnnouncements)**  :point_left: 
 
 ## :round_pushpin: 2-Plate Codes of Cities
  *    We used a web framework called  **'Flask'**  to create a web application.
@@ -14,10 +14,10 @@
 
  ### :camera_flash: ScreenShot 
  
- ![](https://github.com/berkay-c/python-web-scraping/NamesofCitiesandLicensePlateCodes/SS/DatabaseSS.png?raw=true)
- ![](https://github.com/berkay-c/python-web-scraping/NamesofCitiesandLicensePlateCodes/SS/SS10.png?raw=true)
- ![](https://github.com/berkay-c/python-web-scraping/NamesofCitiesandLicensePlateCodes/SS/SS13.png?raw=true)
- * :point_right: **[Click for more information and source code](https://github.com/berkay-c/python-web-scraping/NamesofCitiesandLicensePlateCodes)**:point_left: 
+ ![](https://github.com/berkay-c/python-web-scraping/raw/master/NamesofCitiesandLicensePlateCodes/SS/DatabaseSS.png?raw=true)
+ ![](https://github.com/berkay-c/python-web-scraping/blob/master/NamesofCitiesandLicensePlateCodes/SS/SS10.png?raw=true)
+ ![](https://github.com/berkay-c/python-web-scraping/blob/master/NamesofCitiesandLicensePlateCodes/SS/SS13.png?raw=true)
+ * :point_right: **[Click for more information and source code](https://github.com/berkay-c/python-web-scraping/tree/master/NamesofCitiesandLicensePlateCodes)**:point_left: 
 
 
 ## :round_pushpin:3-Sentiment Analysis With Data on 'yemeksepeti.com' And Automation
