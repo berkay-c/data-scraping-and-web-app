@@ -3,6 +3,6 @@
 
 ## :camera_flash: ScreenShot
 
-![](https://raw.githubusercontent.com/berkay-c/Python_WorkShops/main/PythonWebScraping/AnnouncementsTitles/SS/Screenshot%20from%202021-07-22%2019-50-59.png)
-![](https://github.com/berkay-c/Python_WorkShops/blob/main/PythonWebScraping/TitlesofAnnouncements/SS/Screenshot%20from%202021-07-22%2020-11-59.png?raw=true)
+![](https://raw.githubusercontent.com/berkay-c/python-web-scarping/AnnouncementsTitles/SS/Screenshot%20from%202021-07-22%2019-50-59.png)
+![](https://github.com/berkay-c/python-web-scraping/blob/master/TitlesofAnnouncements/SS/Screenshot%20from%202021-07-22%2019-50-59.png?raw=true)
 
