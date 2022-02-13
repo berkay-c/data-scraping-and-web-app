@@ -12,9 +12,11 @@ if __name__ == '__main__':
         col1, col2 ,col3 = st.columns(3)
         with col2:
             st.markdown("## WELCOME  :wave:")
-            st.markdown("Hello, I'm **Berkay**. I want to talk about my project.")
+            st.markdown("Hello, it's **City And License Plate Code**. I want to talk about my project.")
             st.markdown("* The data is scraped ' **https://www.ilimiz.net/il-plaka-kodlari.html** ' ")
-            st.markdown("* It takes city, district and neighborhood names as input from the user, respectively.")
+            st.markdown("* License Plate code and city names of all cities in Turkey are obtained from our website.And csv file is downloadable.")
+            st.markdown("* In the 'Search' section, we can search both by city name and license plate code.")
+            st.markdown("* That is all. Enjoy :smile:")
     
     elif page == 'Get Data':
         col1, col2, col3,col4,col5,col6 = st.columns(6)
@@ -49,7 +51,10 @@ if __name__ == '__main__':
                         cr = con.cursor() 
                         cr.execute("SELECT plate_code FROM CityPlateCode WHERE city_name like '" +str(city)+"'") 
                         dataresults = cr.fetchone() 
-                        st.write(dataresults[0])
+                        if dataresults is None:
+                            st.error('Please check the entered city name !!')
+                        else:
+                            st.success(dataresults[0])
         
         with col2:    
             with st.form("my_form2"):
@@ -61,13 +66,11 @@ if __name__ == '__main__':
                             vt = sqlite3.connect('my_database.db') # We Connect to Database
                             cur = vt.cursor()
                             cur.execute('''SELECT city_name FROM CityPlateCode where plate_code=?''', (plate,))
-                            results = cur.fetchall()
-                            st.write(results[0][0])
+                            results = cur.fetchall()               
+                            st.success(results[0][0])
                         else :
-                            st.write(plate+' Plate Codes Are Not Available! Please Enter A Valid License Plate Code')
-                                        
-                    
-          
+                            st.error(plate+' Plate Codes Are Not Available! Please Enter A Valid License Plate Code')        
+                              
     elif page == 'About Me':
         col1, col2 ,col3 = st.columns(3)
         with col2:
